@@ -28,3 +28,7 @@ Exercício de segurança na faculdade (Análise e Desenvolvimento de Sistemas). 
 Os registros não separam a atividade dos colegas do red team das varreduras da internet. A ausência de sinais de invasão nas verificações feitas não prova que nada ocorreu.
 
 *Por segurança, detalhes de infraestrutura, defesas e dados de terceiros foram omitidos de propósito.*
+
+## Simulação
+
+O vídeo foi gerado com asciinema e agg a partir do script `simulacao.sh`, que imprime apenas linhas fictícias.
