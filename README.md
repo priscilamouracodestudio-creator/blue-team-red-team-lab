@@ -32,3 +32,7 @@ Os registros não separam a atividade dos colegas do red team das varreduras da 
 ## Simulação
 
 O vídeo foi gerado com asciinema e agg a partir do script `simulacao.sh`, que imprime apenas linhas fictícias.
+
+## Simulação
+
+O vídeo foi gerado com asciinema e agg a partir do script `simulacao.sh`, que imprime apenas linhas fictícias.
